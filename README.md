@@ -14,10 +14,11 @@ The repository's primary resources live in the `docs/` directory.
 - [References](docs/references.md) – provides a working bibliography.
 
 ### Articles
-- [Buckminster Fuller and the Path Toward Sphere-Based Design Theory](docs/article_buckminster_fuller.md) – traces Fuller’s influence on spherical thinking.
+- [Buckminster Fuller and the Path Toward Sphere-Based Design Theory](docs/article_buckminster_fuller.md) – traces Fuller's influence on spherical thinking.
 - [All Forms Derive from the Sphere: An Algorithmic Morphogenesis](docs/article_forms_from_sphere.md) – explores how geometry emerges from the sphere.
 - [Galileo and Newton: How Spheres Underlie Planetary Mechanics and the Laws of Gravity](docs/article_galileo_newton_spheres.md) – connects classical science to spherical design.
-- [Leonardo da Vinci and the Spherical Foundations of Design](docs/article_leonardo_davinci.md) – examines da Vinci’s geometric insights.
+- [Leonardo da Vinci and the Spherical Foundations of Design](docs/article_leonardo_davinci.md) – examines da Vinci's geometric insights.
+- [Spherical Symmetry in Nature: Foundations for Sphere-Based Design Theory](docs/article_spherical_symmetry_in_nature.md) – surveys natural examples of spherical symmetry.
 - [The Sphere as a Universal Interface](docs/article_sphere_as_universal_interface.md) – proposes the sphere as a universal interface.
 - [Spheres, Qubits, and the Future of Design](docs/article_spheres_and_qubits.md) – links spherical geometry with quantum information.
 - [Spheres of Perception](docs/article_spheres_of_perception.md) – discusses cognition and perception via spheres.
