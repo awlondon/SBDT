@@ -24,6 +24,7 @@ The repository's primary resources live in the `docs/` directory.
 - [Spheres of Perception](docs/article_spheres_of_perception.md) – discusses cognition and perception via spheres.
 - [Spherical Interfaces in AI: How Cognition and Agency Gates Can Be Mapped onto Recursive Spheres](docs/article_spherical_interfaces_ai.md) – maps AI cognition onto recursive spheres.
 - [Concentric City Design: Sphere-Based Urbanism](docs/article_sphere_based_urbanism.md) – applies spherical principles to urban planning.
+- [Material Science and Sphere Packing: Efficiency in Design](docs/article_material_science_and_sphere_packing.md) – explores efficient packing in materials and design.
 
 ## Getting Started
 Clone the repo and explore the documentation:
